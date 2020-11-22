@@ -32,7 +32,8 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  
+  super_array5 = ["wow", "pow", "zoink", "arrays!"]
+  super_array5.index[0] 
 end
 
 def retrieve_last_element_from_array(array)
