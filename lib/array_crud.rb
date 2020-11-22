@@ -17,6 +17,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
+  super_array2 = ["boink", "pow", "zoink", "boom"]
   
 end
 
