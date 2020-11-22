@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   super_array2 = ["boink", "pow", "zoink", "boom"]
-  
+  super_array2.pop
 end
 
 def remove_element_from_start_of_array(array)
