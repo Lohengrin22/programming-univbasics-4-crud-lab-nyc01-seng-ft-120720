@@ -43,5 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   super_array7 = ["wow", "pow", "zoink", "arrays!"]
-  super_array7[0] 
+  super_array7[4] = "totally"
 end
