@@ -42,5 +42,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-
+  super_array7 = ["wow", "pow", "zoink", "arrays!"]
+  super_array7[0] 
 end
